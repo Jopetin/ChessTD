@@ -1,0 +1,9 @@
+Map:
+e,t,t,e,t,t,t,e
+0,1,t,t,6,7,8,t
+t,2,3,4,5,t,9,t
+t,t,t,t,t,t,10,t
+Waves:
+1:s,s,s,s,s
+2:b,b,sp,sp,s
+3:sp,sp,b,sp,b
