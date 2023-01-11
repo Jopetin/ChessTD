@@ -9,7 +9,7 @@ A chess themed tower defence game that was created as a group project in fall 20
 - Petteri Kippo
 
 The meeting notes found in the root folder depict roughly the division of work between the group members during the project.
-In short, I was responsible of the interface to the GUI library as well as the general flow of the game.
+In short, I was responsible of the interface to the GUI library and the general flow of the game, as well as creating the build tools.
 
 <img src="pictures/1.png" alt="drawing" width="350"/>
 
